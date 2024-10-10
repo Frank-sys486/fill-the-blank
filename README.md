@@ -62,6 +62,6 @@
 
   <h2>Example</h2>
     <p>Here’s what a typical quiz question looks like:</p>
-    <pre><code>Question 1: Fill in the blank: The _____ is blue.
-Your answer: sky
+    <pre><code>Question 1: Fill in the blank: The sky is _____.
+Your answer: blue
 Correct!</code></pre>
